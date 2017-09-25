@@ -1,0 +1,86 @@
+@model QueryAnalyzer.Models.Project
+
+@{
+    ViewData["Title"] = "Issues";
+}
+<h4>Input</h4>
+<form asp-action="Connect" class="form-inline">
+      
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="Credential.Uri" class="col-md-8 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Credential.Uri" class="form-control" />
+                <span asp-validation-for="Credential.Uri" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Credential.Username" class="col-lg-8 control-label"></label>
+            <div class="col-md-8">
+                <input asp-for="Credential.Username" class="form-control" />
+                <span asp-validation-for="Credential.Username" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Credential.Password" class="col-md-8 control-label"></label>
+            <div class="col-md-8">
+                <input asp-for="Credential.Password" class="form-control" type="password" />
+                <span asp-validation-for="Credential.Password" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-8 col-md-10">
+                <input type="submit" value="Connect" class="btn btn-default" />
+            </div>
+        </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Issues[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Issues[0].Description)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Issues)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                @*<td>
+                    <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                </td>*@
+            </tr>
+        }
+    </tbody>
+</table>
+@*<div>
+    @Html.ActionLink("Export Data", "ExportData", null, new { id = "exportData.xlsx" }) 
+</div>
+<p>
+    <a asp-action="ExportData">Ex2</a>
+</p>*@
+
+<form asp-action="ExportData" class="form-inline">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+ 
+            <input type="hidden" asp-for="ID" value="@Model.ID"/>
+    
+    <div class="form-group">
+        <div class="col-md-offset-8 col-md-10">            
+            <input type="submit" value="Export" class="btn btn-default" />
+        </div>
+    </div>
+    </form>

@@ -1,0 +1,16 @@
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\win10-x64\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\win10-x64\xunit.runner.utility.netstandard15.dll
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\win10-x64\xunit.runner.reporters.netstandard15.dll
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\win10-x64\hostpolicy.dll
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\win10-x64\hostfxr.dll
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\win10-x64\QueryAnalyzer.exe
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\win10-x64\QueryAnalyzer.deps.json
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\win10-x64\QueryAnalyzer.runtimeconfig.json
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\win10-x64\QueryAnalyzer.runtimeconfig.dev.json
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\win10-x64\QueryAnalyzer.dll
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\win10-x64\QueryAnalyzer.pdb
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\obj\Release\netcoreapp1.1\win10-x64\QueryAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\obj\Release\netcoreapp1.1\win10-x64\QueryAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\obj\Release\netcoreapp1.1\win10-x64\QueryAnalyzer.AssemblyInfo.cs
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\obj\Release\netcoreapp1.1\win10-x64\QueryAnalyzer.dll
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\obj\Release\netcoreapp1.1\win10-x64\QueryAnalyzer.pdb

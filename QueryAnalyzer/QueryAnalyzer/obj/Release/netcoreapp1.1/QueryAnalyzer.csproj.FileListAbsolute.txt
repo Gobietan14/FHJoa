@@ -1,0 +1,13 @@
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\QueryAnalyzer.deps.json
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\QueryAnalyzer.runtimeconfig.json
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\QueryAnalyzer.runtimeconfig.dev.json
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\QueryAnalyzer.dll
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\QueryAnalyzer.pdb
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\obj\Release\netcoreapp1.1\QueryAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\obj\Release\netcoreapp1.1\QueryAnalyzer.AssemblyInfo.cs
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\obj\Release\netcoreapp1.1\QueryAnalyzer.dll
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\obj\Release\netcoreapp1.1\QueryAnalyzer.pdb
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\bin\Release\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\Anne-Katrin\documents\visual studio 2017\Projects\QueryAnalyzer\QueryAnalyzer\obj\Release\netcoreapp1.1\QueryAnalyzer.csproj.CoreCompileInputs.cache
